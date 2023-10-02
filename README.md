@@ -25,7 +25,7 @@
     ```
 - Establish a virtual environment
     ```
-    conda env create -f environment.yml
+    conda env create -f environment.yaml
     conda activate reenactment
     pip install -r requirement.txt
     ```
